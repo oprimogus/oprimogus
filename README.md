@@ -1,5 +1,5 @@
 <h1>Olá meus comrads</h1>
-![alt text](/src/oprimogus.gif)
+<img src="https://raw.githubusercontent.com/oprimogus/oprimogus/src/imgs/oprimogus.png" width="700px" />
 
 
 em resumo:
