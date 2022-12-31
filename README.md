@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/oprimogus/oprimogus/main/src/imgs/oprimogus.gif"/>
+<img src="https://raw.githubusercontent.com/oprimogus/oprimogus/main/src/assets/oprimogus.gif"/>
 
 # *Oi, eu sou Gustavo Ferreira*
 
