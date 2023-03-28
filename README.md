@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/oprimogus/oprimogus/main/src/assets/oprimogus.gif"/>
 
-# *Oi, eu sou Gustavo Ferreira*
+# *My name is Gustavo, but you can call me Gus.*
 
 ## _Sobre mim_
 
