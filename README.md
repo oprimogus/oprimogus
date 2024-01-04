@@ -8,7 +8,8 @@ Trabalho há quase 3 anos na área de desenvolvimento, atuando como QA e Engenhe
 
 Hoje, minhas principais linguagens são Typescript/Javascript e Java, mas também tenho experiência com Python, PHP e alguns projetos legados em Java com JSF e PrimeFaces. Atualmente, estou expandindo meus conhecimentos estudando Golang.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oprimogus&theme=blue-green">
+![Node.js](https://github-readme-stats.vercel.app/api/top-langs/?username=oprimogus&theme=blue-green)
+
 
 Fora do mundo da programação, meus interesses incluem:
 - Carros antigos
