@@ -14,9 +14,9 @@
 ## My Tech Stack  
 
 <p align="center">
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=oprimogus&show_icons=true&theme=transparent">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=oprimogus&show_icons=true&theme=transparent&hide_border=true">
 
-![My account](https://github-readme-stats.vercel.app/api/top-langs/?username=oprimogus&theme=transparent&include_all_commits=true&count_private=true&layout=compact)
+![My account](https://github-readme-stats.vercel.app/api/top-langs/?username=oprimogus&theme=transparent&include_all_commits=true&count_private=true&layout=compact&hide_border=true)
 
 </p>
 
