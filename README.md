@@ -13,12 +13,15 @@
 
 ## My Tech Stack  
 
-<section style="display: flex; justify-content: space-between;">
-    <div style="flex: 1; display: flex; flex-direction: column; align-items: center;">
-        <p>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oprimogus&size_weight=0.5&count_weight=0.5&theme=transparent&langs_count=8" />
-        </p>
-        <img src="https://skillicons.dev/icons?i=go,typescript,java,spring,kotlin,nodejs,react,next,vue,angular,tailwind,aws,gcp,terraform,git,grafana,prometheus,k8s,postgres,redis&perline=6" />
-    </div>
-    
-</section>
+<p align="center">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=oprimogus&show_icons=true&theme=transparent">
+
+[![My account](https://github-readme-stats.vercel.app/api/top-langs/?username=oprimogus&theme=transparent&include_all_commits=true&count_private=true&layout=compact)]
+
+</p>
+
+
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=go,typescript,java,spring,kotlin,nodejs,react,next,vue,angular,tailwind,aws,gcp,terraform,git,grafana,prometheus,k8s,postgres,redis)](https://skillicons.dev)
+</div>
