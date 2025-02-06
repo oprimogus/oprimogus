@@ -18,8 +18,7 @@
         <p>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oprimogus&size_weight=0.5&count_weight=0.5&theme=transparent&langs_count=8" />
         </p>
-    </div>
-    <div style="flex: 1; display: flex; flex-direction: row;">
         <img src="https://skillicons.dev/icons?i=go,typescript,java,spring,kotlin,nodejs,react,next,vue,angular,tailwind,aws,gcp,terraform,git,grafana,prometheus,k8s,postgres,redis&perline=6" />
     </div>
+    
 </section>
