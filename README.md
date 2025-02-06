@@ -23,5 +23,5 @@
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=go,typescript,java,spring,kotlin,nodejs,react,next,vue,angular,tailwind,aws,gcp,terraform,git,grafana,prometheus,k8s,postgres,redis)]
+[![My Skills](https://skillicons.dev/icons?i=go,typescript,java,spring,kotlin,nodejs,react,next,vue,angular,tailwind,aws,gcp,terraform,git,grafana,prometheus,k8s,postgres,redis)
 </div>
